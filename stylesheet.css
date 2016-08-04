@@ -1,0 +1,12 @@
+body {
+  width: 600px;
+  margin: 40px;
+}
+
+.spy {
+  background-color: yellow
+}
+
+.buttons {
+  float:right;
+}
